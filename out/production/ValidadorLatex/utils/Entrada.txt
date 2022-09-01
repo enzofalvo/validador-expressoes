@@ -1,0 +1,7 @@
+5
+(T)
+(abcd1234abc)
+(\left (\neg 9 \right ))
+\left (\rightarrow 9 \leftarrow x \right )
+(\neg a)
+(\vee a b)
